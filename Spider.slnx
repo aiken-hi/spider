@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="Readme.md" />
+  </Folder>
+  <Project Path="Spider.Serilog.Sink/Spider.Serilog.Sink.csproj" />
+  <Project Path="Spider/Spider.csproj" />
+</Solution>
